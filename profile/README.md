@@ -9,6 +9,8 @@ Selamat datang di repositori kelompok B09!
 | I Dewa Putu Aditya Rahman | 2106650456 |  idpadt  |
 | Yasmine Putri Viryadhani | 2206081862 | sdikyarts |
 
+### C4 Model of The Current Architecture
+
 Context Diagram (Grace)
 
 Staff
@@ -21,4 +23,9 @@ Student
 
 Tutor 
 
-![Student](../tutor.png)
+![Tutor](../tutor.png)
+
+
+Risk Matrix (Darren)
+
+![Risk Matrix](../risk_matrix.png)
