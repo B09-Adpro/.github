@@ -13,12 +13,12 @@ Context Diagram (Grace)
 
 Staff
 
-![Staff](https://github.com/B09-Adpro/.github/blob/main/profile/staff.png?raw=true)
+![Staff](../staff.png)
 
 Student 
 
-![Student](https://github.com/B09-Adpro/.github/blob/main/profile/student.png?raw=true)
+![Student](../student.jpg)
 
 Tutor 
 
-![Student](https://github.com/B09-Adpro/.github/blob/main/profile/tutor.png?raw=true)
+![Student](../tutor.png)
