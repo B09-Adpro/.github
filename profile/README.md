@@ -65,3 +65,6 @@ Berdasarkan matriks risiko yang diberikan, berikut adalah justifikasi modifikasi
 
 Kesimpulan:
 Modifikasi arsitektur harus diprioritaskan pada risiko kategori "Not Acceptable" karena memiliki dampak dan probabilitas tinggi. Langkah-langkah seperti pengelolaan kredensial aman, pencegahan SQL injection/XSS, sistem moderasi konten, dan otomatisasi proses akan meningkatkan keamanan dan keandalan sistem. Risiko "ALARP" juga perlu diperhatikan dengan solusi seperti backup otomatis untuk meminimalkan dampak potensial.
+
+#### Deployment Diagram (Naufa, Damar)
+![Deployment Diagram](../deploymentdiagram.png)
