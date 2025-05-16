@@ -11,21 +11,40 @@ Selamat datang di repositori kelompok B09!
 
 ### C4 Model of The Current Architecture
 
-Context Diagram (Grace)
+#### Context Diagram (Grace)
 
-Staff
+- Staff
 
 ![Staff](../staff.png)
 
-Student 
+- Student 
 
 ![Student](../student.jpg)
 
-Tutor 
+- Tutor 
 
 ![Tutor](../tutor.png)
 
+#### Container Diagram (Aditya)
 
-Risk Matrix (Darren)
+- Authentication & Authorization System
+![auth_sys](../container%20diagrams/Auth%20System%20Container%20Diagram.png)
+
+- Course Creation & Management System 
+![course_sys](../container%20diagrams/Course%20System%20Container%20Diagram.png)
+
+- Payment System
+![payment_sys](../container%20diagrams/Payment%20System%20Container%20Diagram.png)
+
+- Staff Dashboard System
+![staff_dash_sys](../container%20diagrams/Staff%20Dashboard%20System%20Container%20Diagram.png)
+
+- Report System
+![report_sys](../container%20diagrams/Report%20System%20Container%20Diagram.png)
+
+- Review & Rating System
+![review_sys](../container%20diagrams/Review%20System%20Container%20Diagram.png)
+
+#### Risk Matrix (Darren)
 
 ![Risk Matrix](../risk_matrix.png)
