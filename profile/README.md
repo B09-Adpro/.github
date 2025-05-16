@@ -8,3 +8,17 @@ Selamat datang di repositori kelompok B09!
 | Darren Aldrich | 2306206856 | Dardrich
 | I Dewa Putu Aditya Rahman | 2106650456 |  idpadt  |
 | Yasmine Putri Viryadhani | 2206081862 | sdikyarts |
+
+Context Diagram (Grace)
+
+Staff
+
+![Staff](https://github.com/B09-Adpro/.github/blob/main/profile/staff.png?raw=true)
+
+Student 
+
+![Student](https://github.com/B09-Adpro/.github/blob/main/profile/student.png?raw=true)
+
+Tutor 
+
+![Student](https://github.com/B09-Adpro/.github/blob/main/profile/tutor.png?raw=true)
